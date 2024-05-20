@@ -3,4 +3,8 @@
 - Utilized an infinite loop (`while` loop) to run the digital clock continuously.
 - Designed the clock to be customizable, allowing changes to the font color based on user preference.
 
-Skills: Shell Scripting · Linux · while loop
+Skills
+
+    Shell Scripting
+    Linux
+    While Loop
